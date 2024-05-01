@@ -1,0 +1,43 @@
+.weblizar-notice.notice .hello-elementor-notice-inner .hello-elementor-notice-icon, .notice .hello-elementor-notice-inner .hello-elementor-notice-content{
+	display: table-cell;
+	vertical-align: middle;
+	padding-right : 220px;
+}
+.weblizar-notice.notice h3 {
+	margin: 0 0 5px;
+}
+.weblizar-notice.notice.updated.is-dismissible {
+	padding: 15px;
+}
+.weblizar-notice.notice p {
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+}
+.restore-notice {
+    display: table-cell;
+    vertical-align: middle;
+    border: 2px dashed #ff0000;
+    padding: 20px;
+}
+.hello-elementor-notice-content a.button.button-primary {
+    margin-top: 12px;
+    margin-left: 0px!important;
+}
+
+@keyframes blink { 
+   50% { border-color: #ff0000;
+    box-shadow: 0px 1px 10px #00000026; } 
+}
+.border-two{ /*or other element you want*/
+    animation-name: blink ;
+    animation-duration: .5s ;
+    animation-timing-function: step-end ;
+    animation-iteration-count: infinite ;
+    animation-direction: alternate ;
+    
+    height: 100px;
+    margin-top: 10px;
+    border: 4px dashed #000;
+    padding: 10px;
+}

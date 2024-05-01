@@ -1,0 +1,408 @@
+# Copyright (C) 2015 LWS Affiliation
+# This file is distributed under the same license as the LWS Affiliation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: LWS Affiliation 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Toto\n"
+"POT-Creation-Date: 2022-04-13 15:35+0200\n"
+"PO-Revision-Date: 2022-08-01 09:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: lwsaffiliation.php:116
+msgid "LWS Affiliation Settings"
+msgstr "Paramètres de LWS Affiliation"
+
+#: lwsaffiliation.php:137
+msgid "Please verify your login parameters."
+msgstr "Merci de vérifier vos informations de connexions."
+
+#: lwsaffiliation.php:143
+msgid "An error occured, please try to login again later."
+msgstr "Une erreur est survenue, merci de réessayer de vous connecter ultérieurement."
+
+#: lwsaffiliation.php:146 lwsaffiliation.php:185
+msgid "Your affiliate ID must only contain numbers."
+msgstr "Votre ID d'affilié ne doit contenir que des chiffres."
+
+#: lwsaffiliation.php:149
+msgid "Please enter your affiliate ID."
+msgstr "Merci de renseigner votre identifiant d'affilié."
+
+#: lwsaffiliation.php:151
+msgid "Please enter you affiliate password."
+msgstr "Merci de renseigner votre mot de passe d'affilié."
+
+#: lwsaffiliation.php:193
+msgid "Please fill in the field."
+msgstr "Merci de renseigner le champ."
+
+#: view/admin/notice/functionnotenabled.php:2
+msgid "Please activate the 'allow_url_fopen' variable in your PHP.ini file, otherwise the plugin will not work correctly."
+msgstr "Merci d'activer la variable 'allow_url_fopen' de votre fichier PHP.ini, autrement le plugin ne pourra fonctionner correctement."
+
+#: view/admin/notice/usernamenotdefined.php:2
+msgid "You have not filled in your LWS identifiers. You can do so directly from this page:"
+msgstr "Vous n'avez pas renseigné vos identifiants LWS. Vous pouvez le faire directement depuis cette page :"
+
+#: view/admin/notice/usernamenotdefined.php:2
+msgid "Enter your username LWS"
+msgstr "Renseignez vos identifiants LWS"
+
+#: view/admin/setup.php:21
+msgid "Web Hosting LWS Affiliate Programm"
+msgstr "Programme d'affiliation de l'hébergeur web LWS"
+
+#: view/admin/setup.php:9
+msgid "Your information has been saved"
+msgstr "Vos informations ont bien été enregistrées"
+
+#: view/admin/setup.php:21
+msgid "Your plugin is configurated and ready to use"
+msgstr "Votre plugin est configuré et est prêt à être utilisé"
+
+#: view/admin/setup.php:21
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: view/admin/setup.php:21
+msgid "What is LWS Affiliate?"
+msgstr "Qu'est-ce que LWS Affiliation ?"
+
+#: view/admin/setup.php:21
+msgid "LWS Affiliate is a service from LWS, a renowned hosting company. This platform allows you to participate in our Affiliate Programm."
+msgstr "LWS Affiliation est un service de LWS, un service d'hébergement web renommé. Cette plateforme vous permet de participer à notre programme d'affiliation."
+
+#: view/admin/setup.php:21
+msgid "How to use LWS Affiliate?"
+msgstr "Comment utiliser le plugin Affiliation ?"
+
+#: view/admin/setup.php:22
+msgid "You can use it from your article or page editor"
+msgstr "Vous pouvez utiliser le plugin normalement depuis votre éditeur d'article ou de page"
+
+#: view/admin/setup.php:23
+msgid "If you are using the classic WordPress editor, just click on the \"LWS Affiliation\" button on your editor's menu."
+msgstr "Si vous utilisez l'éditeur classique de WordPress, cliquez sur le bouton \"LWS Affiliation\" dans le menu de celui-ci."
+
+#: view/admin/setup.php:24
+msgid ""
+"If you are using Gutenberg, the block-based editor, add a \"Classic Editor\" block to your page and click on the \"LWS Affiliation\" button on your editor's "
+"menu."
+msgstr ""
+"Si vous utilisez Gutenberg, l'éditeur basé sur des blocs, ajoutez un bloc \"Classique\" à votre page et cliquez sur le bouton \"LWS Affiliation\" dans le menu "
+"de l'éditeur ajouté."
+
+#: view/admin/setup.php:32
+msgid "You can only add one type of each widget on your page. Any attempts to add more will result in an error or in only one of them appearing."
+msgstr ""
+"Vous ne pouvez ajouter qu'un seul type de widget sur votre page. Toute tentative de dépasser cette limite résultera en une erreur ou, pour Gutenberg, en "
+"l'apparition d'un seul d'entre eux."
+
+#: view/admin/setup.php:25
+msgid ""
+"For more information, visit our <a href='http://aide.lws.fr/base/Affiliation/Hebergeur-Web/Comment-installer-et-utiliser-le-plugin-Wordpress-Affiliation' "
+"target='_blank'>documentation</a>"
+msgstr ""
+"Pour plus d'informations, consultez notre <a href='http://aide.lws.fr/base/Affiliation/Hebergeur-Web/Comment-installer-et-utiliser-le-plugin-Wordpress-"
+"Affiliation' target='_blank'>documentation</a>"
+
+#: view/admin/setup.php:37
+msgid "Disconnection"
+msgstr "Déconnexion"
+
+#: view/admin/setup.php:37
+msgid "Connection"
+msgstr "Connexion"
+
+#: view/admin/setup.php:26
+msgid "If you want to connect your site to another account, click on this button:"
+msgstr "Si vous désirez connecter votre site à un autre compte, cliquez sur ce bouton :"
+
+#: view/admin/setup.php:26
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: view/admin/setup.php:14
+msgid "It seems you are using IThemes Security. Please allow \"PHP in extensions\" or deactivate this plugin for our plugin to work correctly."
+msgstr ""
+"Il semblerait que vous utilisiez IThemes Security. Merci d'activer l'utilisation de PHP dans les extensions ou de désactiver ce plugin afin d'assurer le bon "
+"fonctionnement de notre plugin."
+
+#: view/admin/setup.php:30
+msgid ""
+"Enter here your username and password LWS affiliate, this is the login information by which you reach the <a href='https://affiliation.lws-hosting.com' "
+"target='_blank'>affiliate panel LWS</a> LWS"
+msgstr ""
+"Indiquez ici votre identifiant et votre mot de passe affilié LWS, il s'agit des informations de login à l'aide desquels vous accèdez au panel d'<a "
+"href='https://affiliation.lws-hosting.com' target='_blank'>affiliation</a> LWS"
+
+#: view/admin/setup.php:31
+msgid ""
+"If you do not have an affiliate LWS account, you can create one in a few minutes from the <a href='https://affiliation.lws-hosting.com/members/addmember' "
+"target='__blank' title='Sign LWS Affiliation'>registration page</a>"
+msgstr ""
+"Si vous n'avez pas de compte affilié LWS, vous pouvez en créer un en quelques minutes depuis la <a href='https://affiliation.lws-hosting.com/members/"
+"addmember' target='__blank' title='Inscription Affiliation LWS'>page d'inscription</a>"
+
+#: view/admin/setup.php:35
+msgid "Your affiliate ID"
+msgstr "Votre identifiant d'affilié"
+
+#: view/admin/setup.php:36
+msgid "Your affiliate password"
+msgstr "Votre mot de passe d'affilié"
+
+#: view/admin/setup.php:37
+msgid "Submit"
+msgstr "Valider"
+
+#: view/admin/setup.php:44
+msgid "The plugin configuration is impossible because <i>allow_url_fopen</ i> is not active in your hosting"
+msgstr "La configuration du plugin est impossible car le paramètre <i>allow_url_fopen</i> n'est pas actif sur votre hébergement"
+
+#: view/admin/setup.php:45
+msgid ""
+"If you are hosted with LWS, please consult this <a href='http://aide.lws.fr/base/Hebergement-web-mutualise/Programmation/Configurer-PHP' "
+"target='_blank'>documentation</ a>, otherwise, please contact your provider to enable this option"
+msgstr ""
+"Si vous êtes hébergés chez LWS, nous vous invitons à consulter cette <a href='http://aide.lws.fr/base/Hebergement-web-mutualise/Programmation/Configurer-PHP' "
+"target='_blank'>documentation</a>, dans le cas contraire, nous invitons à contacter votre hébergeur pour activer cette option"
+
+#: view/admin/configWidgetMCE.php:11
+msgid "LWS Affiliation Widget Configuration"
+msgstr "Configuration du Widget LWS Affiliation"
+
+#: view/admin/configWidgetMCE.php:181
+msgid "Insert a banner"
+msgstr "Insérer une bannière"
+
+#: view/admin/configWidgetMCE.php:181
+msgid "- Select the banner you want to integrate in your page"
+msgstr "- Sélectionner la bannière que vous souhaitez intégrer à votre page"
+
+#: view/admin/configWidgetMCE.php:197
+msgid "Insert a widget"
+msgstr "Insérer un widget"
+
+#: view/admin/configWidgetMCE.php:197
+msgid "- Select the widget you want to integrate in your page"
+msgstr "- Sélectionner le widget que vous souhaitez intéger à votre page"
+
+#: view/admin/configWidgetMCE.php:201
+msgid "Widget : Domain name research"
+msgstr "Widget : Recherche de nom de domaine"
+
+#: view/admin/configWidgetMCE.php:203
+msgid "Offers table"
+msgstr "Table d'offres"
+
+#: view/admin/configWidgetMCE.php:210
+msgid "Preview"
+msgstr "Aperçu"
+
+#: view/admin/configWidgetMCE.php:211
+msgid "Widget configuration"
+msgstr "Configurer le widget"
+
+#: view/admin/configWidgetMCE.php:225
+msgid "Widget configuration:"
+msgstr "Configuration du widget :"
+
+#: view/admin/configWidgetMCE.php:232
+msgid "Extension"
+msgstr "Extension"
+
+#: view/admin/configWidgetMCE.php:235
+msgid "Extension first shown in the suggestion. To see which extension we are selling, check this page: "
+msgstr "Première extension affichée dans les suggestions. Pour voir quelles extensions nous vendons, visitez cette page : "
+
+#: view/admin/configWidgetMCE.php:235
+msgid "LWS Domain"
+msgstr "Domaine LWS"
+
+#: view/admin/configWidgetMCE.php:239
+msgid "Button theme"
+msgstr "Thème du bouton"
+
+#: view/admin/configWidgetMCE.php:242
+msgid "White"
+msgstr "Blanc"
+
+#: view/admin/configWidgetMCE.php:243
+msgid "Blue"
+msgstr "Bleu"
+
+#: view/admin/configWidgetMCE.php:244
+msgid "Light blue"
+msgstr "Bleu ciel"
+
+#: view/admin/configWidgetMCE.php:245
+msgid "Green"
+msgstr "Vert"
+
+#: view/admin/configWidgetMCE.php:246
+msgid "Orange"
+msgstr "Orange"
+
+#: view/admin/configWidgetMCE.php:247
+msgid "Red"
+msgstr "Rouge"
+
+#: view/admin/configWidgetMCE.php:249
+msgid "Color of the button on the right side of the search bar."
+msgstr "Couleur du bouton à droite de la barre de recherche."
+
+#: view/admin/configWidgetMCE.php:253
+msgid "Button text"
+msgstr "Texte du bouton"
+
+#: view/admin/configWidgetMCE.php:255
+msgid "Command"
+msgstr "Commander"
+
+#: view/admin/configWidgetMCE.php:256
+msgid "Text written on the button."
+msgstr "Texte inscrit sur le bouton."
+
+#: view/admin/configWidgetMCE.php:260 view/admin/configWidgetMCE.php:283
+msgid "Redirection"
+msgstr "Redirection"
+
+#: view/admin/configWidgetMCE.php:263 view/admin/configWidgetMCE.php:286
+msgid "Current page"
+msgstr "Page courante"
+
+#: view/admin/configWidgetMCE.php:264 view/admin/configWidgetMCE.php:287
+msgid "New tab"
+msgstr "Nouvel onglet"
+
+#: view/admin/configWidgetMCE.php:266 view/admin/configWidgetMCE.php:289
+msgid "Specify whether to redirect directly on the current page or in a new tab."
+msgstr "Spécifier si la redirection se fait directement sur la page actuelle ou dans un nouvel onglet."
+
+#: view/admin/configWidgetMCE.php:270 view/admin/configWidgetMCE.php:293
+msgid "Language"
+msgstr "Langue"
+
+#: view/admin/configWidgetMCE.php:273 view/admin/configWidgetMCE.php:296
+msgid "French"
+msgstr "Français"
+
+#: view/admin/configWidgetMCE.php:274 view/admin/configWidgetMCE.php:297
+msgid "English"
+msgstr "Anglais"
+
+#: view/admin/configWidgetMCE.php:276 view/admin/configWidgetMCE.php:299
+msgid "Choose the display language of your widget."
+msgstr "Choisissez la langue d'affichage du widget."
+
+#: view/admin/configWidgetMCE.php:305
+msgid "Abort"
+msgstr "Annuler"
+
+#: view/admin/configWidgetMCE.php:306
+msgid "Insert"
+msgstr "Insérer"
+
+#: view/admin/tabs.php:9
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: view/admin/tabs.php:9
+msgid "Last sales"
+msgstr "Dernières ventes"
+
+#: view/admin/stats.php:
+msgid "General statistics"
+msgstr "Statistiques générales"
+
+#: view/admin/stats.php:
+msgid "Clicks"
+msgstr "Clics"
+
+#: view/admin/stats.php:
+msgid "click(s)"
+msgstr "clic(s)"
+
+#: view/admin/stats.php:
+msgid "Sales"
+msgstr "Ventes"
+
+#: view/admin/stats.php:
+msgid "sales(s)"
+msgstr "vente(s)"
+
+#: view/admin/stats.php:
+msgid "Commissions"
+msgstr "Commissions"
+
+#: view/admin/stats.php:
+msgid "euros"
+msgstr "euros"
+
+#: view/admin/stats.php:
+msgid "Monthly statistics"
+msgstr "Statistiques mensuelles"
+
+#: view/admin/history.php:
+msgid "On this page, you will find your 25 last commissions."
+msgstr "Sur cette page, vous trouverez vos 25 dernières commissions."
+
+#: view/admin/history.php:
+msgid "There is a 45 days delay between the moment a commission is registered and the moment it is accepted: "
+msgstr "Il y a un délai de 45 jours entre l'enregistrement de la commission et sa validation : "
+
+#: view/admin/history.php:
+msgid "We must make sure the commission is verified and the customer is not planning to get refunded."
+msgstr "Nous devons nous assurer que la commission est valide et que le client ne compte pas se faire rembourser."
+
+#: view/admin/history.php:
+msgid "Product"
+msgstr "Produit"
+
+#: view/admin/history.php:
+msgid "Commission (Euro)"
+msgstr "Commission (Euro)"
+
+#: view/admin/history.php:
+msgid "Status"
+msgstr "Statut"
+
+#: view/admin/history.php:
+msgid "Sale Done At"
+msgstr "Vente effectuée le"
+
+#: view/admin/history.php:
+msgid "Awaiting approval"
+msgstr "En attente de validation"
+
+#: view/admin/history.php:
+msgid "Accepted"
+msgstr "Accepté"
+
+#. Plugin Name of the plugin/theme
+msgid "LWS Affiliation"
+msgstr "LWS Affiliation"
+
+#. Plugin URI of the plugin/theme
+msgid "https://affiliation.lws-hosting.com"
+msgstr "https://affiliation.lws-hosting.com"
+
+#. Description of the plugin/theme
+msgid "Integrate our banners and widgets on your site with our affiliate program !"
+msgstr "Intégrez nos bannières et widgets sur notre site avec notre programme affilié !"
+
+#. Author of the plugin/theme
+msgid "LWS"
+msgstr "LWS"
+
+#. Author URI of the plugin/theme
+msgid "https://www.lws.fr"
+msgstr "https://www.lws.fr"

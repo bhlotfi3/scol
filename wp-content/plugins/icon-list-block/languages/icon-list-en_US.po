@@ -1,0 +1,281 @@
+# Copyright (C) 2023 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Icon List Block 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/icon-list-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-06T03:43:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: icon-list\n"
+
+#. Plugin Name of the plugin
+msgid "Icon List Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show your icon list in web."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7997
+msgid "Default"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7998
+msgid "Theme 1"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7999
+msgid "Theme 2"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8003
+msgid "Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8004
+msgid "Center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8005
+msgid "Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8009
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8010
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8070
+msgid "Help"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8072
+msgid "Read Documentation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8077
+msgid "Would you please rate us?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8078
+msgid "We are new and we need your help to grow!🙏"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8084
+msgid "Add or Remove Lists"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8090
+msgid "Link:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8092
+msgid "If you want to link the list, enter the link here. Otherwise, leave as blank."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8095
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8097
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8102
+msgid "Add New List"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8107
+msgid "List Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8145
+msgid "Card"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8146
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8147
+msgid "Keep width 0, to auto width."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8149
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8151
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8153
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8155
+msgid "Shadow:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8159
+msgid "Header"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8160
+msgid "Margin:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8162
+msgid "Show Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8165
+msgid "Title Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8167
+msgid "Title Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8170
+msgid "Show Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8173
+msgid "Description Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8175
+msgid "Description Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8178
+msgid "Show Separator"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8184
+msgid "List"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8188
+msgid "Icon Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8190
+msgid "Text Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8192
+msgid "Text Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8201
+msgid "Icon List in left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8202
+msgid "Icon List in center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8203
+msgid "Icon List in right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8464
+msgid "Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8466
+msgid "Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8478
+msgid "Text"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Icon List"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Use icons instead of bullets of list."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "icon"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "list"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "icon list"
+msgstr ""

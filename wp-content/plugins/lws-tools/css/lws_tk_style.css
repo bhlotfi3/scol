@@ -1,0 +1,288 @@
+.lws_tk_configpage{
+    background-color:white;
+    padding:30px;
+    box-shadow: 0px 1px 1px #00000029;
+    font-size:16px;
+    line-height:26px;
+    margin-right:20px;
+}
+
+.lws-tk-titlebloc{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.lws-tk-titre{
+    font-size:22px;
+}
+
+.lws-tk-subtitle{
+    font-size:16px;
+    font-weight:400;
+}
+
+.lws-tk-maintitle{
+    line-height: 26px !important;
+    margin-left: 20px !important;
+    margin-top: 10px;
+}
+
+.lws-tk-text-p{
+    font-size:16px;
+}
+
+.lws_tk-nav-list{
+    border-bottom:none !important;
+    padding-top:0px !important; 
+}
+
+.lws_tk-tab{
+    /*background-color:#E8F1FF;*/
+    color:#3C434A;
+    font-size:16px;
+    border: 1px solid #9DB3F6;
+    border-bottom: none;
+}
+
+.lws_tk-tab-general{
+    margin-left:0px;
+}
+
+.lws_tk-tab.nav-tab-active, .lws_tk-tab.nav-tab-active:focus, .lws_tk-tab.nav-tab-active:focus:active, .lws_tk-tab.nav-tab-active:hover{
+    background-color:#0F4293 !important;
+    color:#FFFFFF !important;
+}
+
+.lws_tk_general_install_button{
+    background: #EEF5FF 0% 0% no-repeat padding-box;
+    border: 1px solid #0F4293;
+    font-weight: 600;
+    line-height:31px;
+    padding-left:12px;
+    padding-right:12px;
+    font-size:15px;
+    letter-spacing: 0px;
+    color: #0F4293;
+}
+
+.lws_tk_general_install_button:hover{
+    background: #b9cce6 0% 0% no-repeat padding-box;
+    color: #0f4293d4;
+    cursor:pointer;
+    
+}
+.lws_tk_failed_button:hover{
+    background: #f2c2c9 0% 0% no-repeat padding-box;
+    color: #ff1717d4;
+    cursor: pointer;
+}
+
+.lws_tk_validated_button:hover{
+    color: #008A56;
+    background: #EEFBF5 0% 0% no-repeat padding-box;
+    border: 1px solid #008A56;
+    cursor:unset;
+}
+
+.lws_tk_image_button{
+    vertical-align:sub;
+}
+
+.lws_tk_failed_button{
+    background: #FBEEEE 0% 0% no-repeat padding-box;
+    border: 1px solid #FF0000;
+    color: #FF0000;
+}
+
+.lws_tk_validated_button{
+    color: #008A56 !important;
+    background: #EEFBF5 0% 0% no-repeat padding-box !important;
+    border: 1px solid #008A56 !important;
+    cursor:unset;
+}
+
+.lws_tk_validated_button_tools{
+    color: #008A56;
+    background: #EEFBF5 0% 0% no-repeat padding-box;
+    border: 1px solid #008A56;
+}
+
+.lws_tk_general_install_button_mysql{
+    background: #EEF5FF 0% 0% no-repeat padding-box;
+    border: 1px solid #0F4293;
+    font-weight: 600;
+    line-height:31px;
+    padding-left:12px;
+    padding-right:12px;
+    font-size:15px;
+    letter-spacing: 0px;
+    color: #0F4293;
+}
+
+.lws_tk_validated_button_tools:hover{
+    color: #047449;
+    background: #dce8e2 0% 0% no-repeat padding-box;
+    border: 1px solid #008A56;
+    cursor:pointer;
+}
+
+#lws_tk_banner{
+    background: url(../images/banniere_plugin_tools.jpg) no-repeat;
+    height:90px;
+    width:auto;
+    transition: all .2s ease;
+}
+
+.lws_tk_basic{
+    background: #E1EFFF 0% 0% no-repeat padding-box;
+    border-radius: 14px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    color: #0F4293;
+    padding: 4px 15px 4px 15px;
+    width: fit-content;
+}
+
+.lws_tk_uptodate{
+    background: #C5F9DD 0% 0% no-repeat padding-box;
+    border-radius: 14px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    color: #087D3A;
+    padding: 4px 15px 4px 15px;
+    width: fit-content;
+}
+
+.lws_tk_tdserver{
+    padding-right:29px;
+}
+
+.lws_tk_notiftable{
+    border-collapse: collapse;
+    border-spacing: 15px;
+}
+
+.lws_tk_mysqltable{
+    border-collapse: collapse;
+    border-spacing: 15px;
+}
+
+.lws_tk_td_tablenotif{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.lws_tk_tab_line{
+    border-top: 1px solid #9DB3F6;
+    border-bottom: 1px solid #9DB3F6;
+}
+
+.lws_tk_tab_line_mysql{
+    border-bottom: 1px solid #0F4293;
+}
+
+tr.lws_tk_tab_line:first-child {
+    border-top: none;
+  }
+tr.lws_tk_tab_line:last-child {
+    border-bottom: none;
+  }
+
+.lws_tk_td_tablenotif_list{
+    padding-top: 15px;
+}
+
+.lws_tk_td_is_last{
+    padding-bottom: 15px;
+}
+
+.lws_tk_tdmysql{
+    padding-top:14px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+}
+
+.lws_tk_div_repair_sql{
+    margin-top:30px;
+}
+
+.lws_tk_mysql_repair{
+    margin-right:5px;
+    margin-left:5px;
+}
+
+.lws_tk_td_tabletools{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.lws_tk_general_button_notif{
+    background: #EEF5FF 0% 0% no-repeat padding-box;
+    border: 1px solid #0F4293;
+    font-weight: 600;
+    line-height: 26px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #0F4293;
+}
+
+.lws_tk_general_button_notif:hover{
+    cursor: pointer;
+}
+
+.lws_tk_delete_button_notif{
+    background: #FBEEEE 0% 0% no-repeat padding-box;
+    border: 1px solid #FF0000;
+    color: #FF0000;
+}
+
+.lws_tk_optipage_table{
+    margin: 6px 0px 6px 0px;
+}
+
+.lws_tk_toolspage_tb_left{
+    padding-right: 39px;
+}
+
+@media only screen and (max-width: 1700px){
+    #lws_tk_banner{
+        background: url(../images/banniere_plugin_tools_1400px.jpg) no-repeat;
+    }
+}
+
+@media only screen and (max-width: 1600px){
+    #lws_tk_banner{
+        background: url(../images/banniere_plugin_tools_1100px.jpg) no-repeat;
+    }
+}
+
+@media only screen and (max-width: 1350px){
+    #lws_tk_banner{
+        background: url(../images/banniere_plugin_tools_900px.jpg) no-repeat;
+    }
+}
+
+@media only screen and (max-width: 1050px){
+    #lws_tk_banner{
+        background: url(../images/banniere_plugin_tools_700px.jpg) no-repeat;
+    }
+}
+@media only screen and (max-width: 700px){
+    .lws_tk_uptodate,
+    .lws_tk_basic{
+        border-radius: 0%;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    #lws_tk_banner{
+        display:none;
+    }
+}

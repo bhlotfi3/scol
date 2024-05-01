@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblizar\n"
+"POT-Creation-Date: 2020-01-03 16:41+0530\n"
+"PO-Revision-Date: 2020-01-03 16:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ./..\n"
+
+#: ../comments.php:19
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Logged in as "
+msgstr ""
+
+#: ../comments.php:40
+msgid " Log out?"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Send"
+msgstr ""
+
+#: ../content.php:39 ../functions.php:37 ../functions.php:42
+#: ../functions.php:47
+msgid "Read More"
+msgstr ""
+
+#: ../content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:47
+msgid "Next page"
+msgstr ""
+
+#: ../content.php:48
+msgid "Previous page"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:3 ../core/admin/hire-us.php:3
+#: admin/admin-themes.php:3 admin/hire-us.php:3
+msgid "Welcome to Weblizar"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:3 admin/admin-themes.php:3
+msgid "About Weblizar <i class=\"fa fa-star theme-icon\"></i>"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:36 ../core/admin/admin-themes.php:226
+#: admin/admin-themes.php:36 admin/admin-themes.php:226
+msgid "http://demo.weblizar.com/weblizar-premium/"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:101 admin/admin-themes.php:101
+msgid "https://weblizar.com/themes/"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:132 admin/admin-themes.php:132
+msgid "https://weblizar.com/themes/weblizar-premium-theme/"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:144 admin/admin-themes.php:144
+msgid "https://weblizar.com/themes/nineteen-premium-theme-for-business/"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:154 admin/admin-themes.php:154
+msgid "https://weblizar.com/themes/beautyspa-premium/"
+msgstr ""
+
+#: ../core/admin/admin-themes.php:163 admin/admin-themes.php:163
+msgid "https://weblizar.com/themes/explora-premium/"
+msgstr ""
+
+#: ../core/admin/hire-us.php:3 admin/hire-us.php:3
+msgid "<span style=\"color:#ffc94a\">Hire Us</span>"
+msgstr ""
+
+#: ../core/admin/hire-us.php:38 ../core/admin/hire-us.php:46
+#: ../core/admin/hire-us.php:55 admin/hire-us.php:38 admin/hire-us.php:46
+#: admin/hire-us.php:55
+msgid "skype:weblizar?chat"
+msgstr ""
+
+#: ../core/comment-box/comment-function.php:10
+#: comment-box/comment-function.php:10
+msgid "Reply"
+msgstr ""
+
+#: ../core/menu/default_menu_walker.php:23 menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: ../customizer.php:29
+msgid "Weblizar Options"
+msgstr ""
+
+#: ../customizer.php:35
+msgid "Theme General Options"
+msgstr ""
+
+#: ../customizer.php:36
+msgid "Here you can customize Your theme's general Settings"
+msgstr ""
+
+#: ../customizer.php:54
+msgid "Sticky header on/off"
+msgstr ""
+
+#: ../customizer.php:80
+msgid "Logo Height"
+msgstr ""
+
+#: ../customizer.php:86
+msgid "Logo Width"
+msgstr ""
+
+#: ../customizer.php:103
+msgid "Custom CSS"
+msgstr ""
+
+#: ../customizer.php:113
+msgid "Theme Slider Options"
+msgstr ""
+
+#: ../customizer.php:115
+msgid "Here you can add slider images"
+msgstr ""
+
+#: ../customizer.php:139
+msgid "Select Slider "
+msgstr ""
+
+#: ../customizer.php:140
+msgid "select Slider for homepage"
+msgstr ""
+
+#: ../customizer.php:142
+msgid "Slider 1"
+msgstr ""
+
+#: ../customizer.php:143
+msgid "Slider 2"
+msgstr ""
+
+#: ../customizer.php:148
+msgid "Slider Speed Option"
+msgstr ""
+
+#: ../customizer.php:326
+msgid "Slider Image One"
+msgstr ""
+
+#: ../customizer.php:331
+msgid "Slider title one"
+msgstr ""
+
+#: ../customizer.php:337
+msgid "Slider description one"
+msgstr ""
+
+#: ../customizer.php:343
+msgid "Slider Button Text One"
+msgstr ""
+
+#: ../customizer.php:350
+msgid "Slider Button Link"
+msgstr ""
+
+#: ../customizer.php:357
+msgid "Slider Image Two "
+msgstr ""
+
+#: ../customizer.php:363
+msgid "Slider Title Two"
+msgstr ""
+
+#: ../customizer.php:369
+msgid "Slider Description Two"
+msgstr ""
+
+#: ../customizer.php:375
+msgid "Slider Button Text Two"
+msgstr ""
+
+#: ../customizer.php:381
+msgid "Slider Link Two"
+msgstr ""
+
+#: ../customizer.php:388
+msgid "Slider Image Three"
+msgstr ""
+
+#: ../customizer.php:393
+msgid "Slider Title Three"
+msgstr ""
+
+#: ../customizer.php:400
+msgid "Slider Description Three"
+msgstr ""
+
+#: ../customizer.php:406
+msgid "Slider Button Text Three"
+msgstr ""
+
+#: ../customizer.php:412
+msgid "Slider Button Link Three"
+msgstr ""
+
+#: ../customizer.php:420
+msgid "Home Blog Option"
+msgstr ""
+
+#: ../customizer.php:437
+msgid "Enable Home Blog"
+msgstr ""
+
+#: ../customizer.php:457
+msgid "Home Blog Title"
+msgstr ""
+
+#: ../customizer.php:475
+msgid "Home Blog Description"
+msgstr ""
+
+#: ../customizer.php:495
+msgid "Show Home Blog Post"
+msgstr ""
+
+#: ../customizer.php:512
+msgid "Home Service Option"
+msgstr ""
+
+#: ../customizer.php:529
+msgid "Enable Home Service"
+msgstr ""
+
+#: ../customizer.php:548
+msgid "Service Section Heading"
+msgstr ""
+
+#: ../customizer.php:566
+msgid "Service Section Description"
+msgstr ""
+
+#: ../customizer.php:664
+msgid "Product Options"
+msgstr ""
+
+#: ../customizer.php:681
+msgid "Product Title"
+msgstr ""
+
+#: ../customizer.php:689
+msgid "Social Options"
+msgstr ""
+
+#: ../customizer.php:708
+msgid "Enable Social Media Icons in Footer"
+msgstr ""
+
+#: ../customizer.php:723
+msgid "Facebook URL"
+msgstr ""
+
+#: ../customizer.php:738
+msgid "Twitter URL"
+msgstr ""
+
+#: ../customizer.php:757
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../customizer.php:764
+msgid "Footer Options"
+msgstr ""
+
+#: ../customizer.php:783
+msgid "Footer Customization Text"
+msgstr ""
+
+#: ../customizer.php:799
+msgid "Footer Developed By Text"
+msgstr ""
+
+#: ../customizer.php:814
+msgid "Footer Company Text"
+msgstr ""
+
+#: ../customizer.php:829
+msgid "Footer Customization Link"
+msgstr ""
+
+#: ../customizer.php:837
+msgid "Header Option"
+msgstr ""
+
+#: ../customizer.php:854
+msgid "Enable Search For Header"
+msgstr ""
+
+#: ../customizer.php:868
+msgid "Email"
+msgstr ""
+
+#: ../customizer.php:882
+msgid "Phone"
+msgstr ""
+
+#: ../customizer.php:890
+msgid "Excerpt Option"
+msgstr ""
+
+#: ../customizer.php:903
+msgid "Excerpt length blog section"
+msgstr ""
+
+#: ../customizer.php:912
+msgid "Home Page Layout Option"
+msgstr ""
+
+#: ../customizer.php:925
+msgid "Front Page Layout Option"
+msgstr ""
+
+#: ../customizer.php:929
+msgid "Home Services"
+msgstr ""
+
+#: ../customizer.php:930
+msgid "Home Blog"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Neque porro "
+msgstr ""
+
+#: ../functions.php:36
+msgid " dolorem ipsum quia dolor sit amet,"
+msgstr ""
+
+#: ../functions.php:40
+msgid "Vonsectetur, adipisci velit..."
+msgstr ""
+
+#: ../functions.php:41
+msgid "satu fakta bahawa pembaca akan terganggus"
+msgstr ""
+
+#: ../functions.php:45
+msgid "echo establecido hace demasia."
+msgstr ""
+
+#: ../functions.php:46
+msgid ""
+"es simplemente el texto de relleno de las imprentas y archivos de texto."
+msgstr ""
+
+#: ../functions.php:49
+msgid "We are weblizar"
+msgstr ""
+
+#: ../functions.php:50
+msgid ""
+"Contrary to popular belief, Lorem Ipsum is not simply random text. It has "
+"roots in a piece of classical Latin literature from 45 BC, making it over "
+"2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney "
+"College in Virginia, looked up one of the more obscure Latin words, "
+"consectetur."
+msgstr ""
+
+#: ../functions.php:51
+msgid "Latest Blog"
+msgstr ""
+
+#: ../functions.php:52
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry.."
+msgstr ""
+
+#: ../functions.php:66
+msgid " @ 2019  Theme"
+msgstr ""
+
+#: ../functions.php:67
+msgid "Theme Developed By"
+msgstr ""
+
+#: ../functions.php:72
+msgid "Idea"
+msgstr ""
+
+#: ../functions.php:74 ../functions.php:79 ../functions.php:84
+#: ../functions.php:89
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in."
+msgstr ""
+
+#: ../functions.php:77
+msgid "Design"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Management"
+msgstr ""
+
+#: ../functions.php:87
+msgid "Development"
+msgstr ""
+
+#: ../functions.php:122
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:209
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:211
+msgid "The primary widget area"
+msgstr ""
+
+#: ../functions.php:219
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:221
+msgid "footer widget area"
+msgstr ""

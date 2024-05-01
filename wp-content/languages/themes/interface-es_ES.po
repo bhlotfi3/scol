@@ -1,0 +1,889 @@
+# Translation of Themes - Interface in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Interface package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-24 08:12:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Interface\n"
+
+#. Description of the theme
+msgid "Interface is a Simple, Clean and Flat Responsive Business WordPress Theme. It is easily customizable with numerous theme options via Customize. Some of the highlighted options are two site layout (Narrow and Wide), 4 layouts for every post/page, 5 Page Templates, 8 widget areas, 6 custom widgets, featured slider to highlight your post/page, 10 social icons, top and bottom info bar to hightlight your contact/email/location and many more. Also has custom background, header, menu, favicon, CSS, webclip icon, and logo. Supports popular plugins like WooCommerce, bbPress and many more. It is also translation ready. Available Translation: Russian. Get free support at https://www.themehorse.com/support-forum/ and view beautiful demo site at https://www.themehorse.com/preview/interface"
+msgstr "Interface es un tema de WordPress simple, limpio y plano. Es fácilmente personalizable con numerosas opciones de temas a través de Customize. Algunas de las opciones destacadas son dos diseños de sitio (Estrecho y Ancho), 4 diseños para cada entrada/página, 5 Plantillas de página, 8 áreas de widgets, 6 widgets personalizados, deslizador para resaltar tu entrada/página, 10 iconos sociales, barra de información superior e inferior para resaltar tu contacto/email/ubicación y muchos más. También tiene fondo, encabezado, menú, favicon, CSS, icono de clip web y logotipo personalizados. Compatibe con plugins populares como WooCommerce, bbPress y muchos más. También está preparado para la traducción. Traducción disponible: Ruso. Obtén soporte gratuito en https://www.themehorse.com/support-forum/ y mira el hermoso sitio de demostración en https://www.themehorse.com/preview/interface"
+
+#. Theme Name of the theme
+msgid "Interface"
+msgstr "Interface"
+
+#: inc/functions/customizer.php:727
+msgid "Interface Pro"
+msgstr "Interface Pro"
+
+#: inc/functions/customizer.php:491
+msgid "Shuffle"
+msgstr "Aleatorio"
+
+#: inc/functions/customizer.php:490
+msgid "Cover"
+msgstr "Cubrir"
+
+#: inc/functions/customizer.php:489
+msgid "Blind Z"
+msgstr "Blind Z"
+
+#: inc/functions/customizer.php:488
+msgid "Blind Y"
+msgstr "Blind Y"
+
+#: inc/functions/customizer.php:487
+msgid "Blind X"
+msgstr "Blind X"
+
+#: inc/functions/customizer.php:486
+msgid "Scroll Right"
+msgstr "Desplazar hacia la derecha"
+
+#: inc/functions/customizer.php:485
+msgid "Scroll Left"
+msgstr "Desplazar hacia la izquierda"
+
+#: inc/functions/customizer.php:484
+msgid "Scroll Down"
+msgstr "Desplazar hacia abajo"
+
+#: inc/functions/customizer.php:483
+msgid "Scroll Up"
+msgstr "Desplazar hacia arriba"
+
+#: inc/functions/customizer.php:482
+msgid "Wipe"
+msgstr "limpiar"
+
+#: inc/functions/customizer.php:481
+msgid "Fade"
+msgstr "Fundido"
+
+#: inc/functions/customizer.php:452
+msgid "OFF (Slider Content will not be displayed)"
+msgstr "DESACTIVADO (No se mostrará el contenido del carrusel)"
+
+#: inc/functions/customizer.php:451
+msgid "ON (Slider Content will be displayed)"
+msgstr "ACTIVADO (Se mostrará el contenido del carrusel)"
+
+#: inc/functions/customizer.php:394
+msgid "Only posts that belong to the categories selected here will be displayed on the front page. ( You may select multiple categories by holding down the CTRL key. ) "
+msgstr "Solo se mostrarán en la página de inicio las entradas que pertenezcan a las categorías seleccionadas aquí. ( Puedes seleccionar varias categorías manteniendo pulsada la tecla CTRL. ) "
+
+#: inc/functions/customizer.php:372
+msgid "TThe appropriate length of the slogan is around 10 words."
+msgstr "La longitud apropiada del lema es de unas 10 palabras."
+
+#: inc/functions/customizer.php:251
+msgid "OFF(Full site will display as desktop view)"
+msgstr "Desactivado (El sitio completo se mostrará como vista de escritorio)"
+
+#: inc/functions/customizer.php:250
+msgid "ON(Responsive view will be displayed in small devices )"
+msgstr "Acrtivado (La vista adaptable se mostrará en los dispositivos pequeños)"
+
+#: inc/functions/customizer.php:162
+msgid "Interface Support"
+msgstr "Soporte de Interface"
+
+#: inc/functions/customizer.php:175
+msgid "Interface Upgrade"
+msgstr "Actualización de Interface"
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Customizer"
+msgstr "Personalizador"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Plantilla de página de contacto"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Plantilla empresarial"
+
+#. Template Name of the theme
+msgid "Blog Image Medium"
+msgstr "Imagen de blog media"
+
+#. Template Name of the theme
+msgid "Blog Image Large"
+msgstr "Imagen de blog grande"
+
+#. Template Name of the theme
+msgid "Blog Full Content Display"
+msgstr "Mostrar contenido completo del blog"
+
+#: inc/widgets/interface_widgets.php:754
+msgid "Redirect Link:"
+msgstr "Enlace de redirección:"
+
+#: inc/widgets/interface_widgets.php:740
+msgid "Number of Images:"
+msgstr "Número de imágenes:"
+
+#: inc/widgets/interface_widgets.php:734
+msgid "Image Title:"
+msgstr "Título de la imagen:"
+
+#: inc/widgets/interface_widgets.php:730
+msgid "Note: Recommended size for the image is 400px (width) and 150px (height). If you want more image adding fields then first enter the number and click on Save, this will allow you more image adding fields"
+msgstr "Nota: el tamaño recomendado para la imagen es de 400px (ancho) y 150px (altura). Si quieres más campos para añadir imágenes adicionales, introduce primero el número y haz clic en «Guardar», esto añadirá más campos para añadir imágenes adicionales"
+
+#: inc/widgets/interface_widgets.php:713
+msgid "Use to show your clients logos or any thing."
+msgstr "Úsalo para mostrar los logotipos de tus clientes o cualquier otra cosa."
+
+#: inc/widgets/interface_widgets.php:701
+msgid "Company Link 2:"
+msgstr "Enlace de la compañía 2:"
+
+#: inc/widgets/interface_widgets.php:695
+msgid "Comapany Name 2:"
+msgstr "Nombre de la empresa 2:"
+
+#: inc/widgets/interface_widgets.php:689
+msgid "Designation 2:"
+msgstr "Puesto 2:"
+
+#: inc/widgets/interface_widgets.php:683
+msgid "Name 2:"
+msgstr "Nombre 2:"
+
+#: inc/widgets/interface_widgets.php:679
+msgid "Testimonial Description 2"
+msgstr "Descripción de la recomendación 2"
+
+#: inc/widgets/interface_widgets.php:677
+msgid "Upload Image 2"
+msgstr "Subir imagen 2"
+
+#: inc/widgets/interface_widgets.php:670
+msgid "Company Link 1:"
+msgstr "Enlace de la compañía 1:"
+
+#: inc/widgets/interface_widgets.php:664
+msgid "Comapany Name 1:"
+msgstr "Nombre de la empresa 1:"
+
+#: inc/widgets/interface_widgets.php:658
+msgid "Designation 1:"
+msgstr "Puesto 1:"
+
+#: inc/widgets/interface_widgets.php:652
+msgid "Name 1:"
+msgstr "Nombre 1:"
+
+#: inc/widgets/interface_widgets.php:648
+msgid "Testimonial Description 1"
+msgstr "Descripción de la recomendación 1"
+
+#: inc/widgets/interface_widgets.php:646
+msgid "Upload Image 1"
+msgstr "Subir imagen 1"
+
+#: inc/widgets/interface_widgets.php:547
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Horse: Recomendaciones"
+
+#: inc/widgets/interface_widgets.php:545
+msgid "Display Testimonial( Business Layout )recommendation size (168 * 168)"
+msgstr "Mostrar recomendación ( Diseño empresarial ) tamaño recomendado (168 * 168)"
+
+#: inc/widgets/interface_widgets.php:424
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/widgets/interface_widgets.php:394
+msgid "Theme Horse: Featured Recent Work"
+msgstr "Tema Horse: Trabajo reciente destacado"
+
+#: inc/widgets/interface_widgets.php:392
+msgid "Use this widget to show recent work, portfolio or any pages as your wish ( Business Layout )"
+msgstr "Usa este widget para mostrar trabajos recientes, porfolios o cualquier página que quieras ( Diseño empresarial )"
+
+#: inc/widgets/interface_widgets.php:375 inc/widgets/interface_widgets.php:434
+msgid "Redirect Url:"
+msgstr "URL de redirección:"
+
+#: inc/widgets/interface_widgets.php:369 inc/widgets/interface_widgets.php:428
+msgid "Redirect Text:"
+msgstr "Texto de redirección:"
+
+#: inc/widgets/interface_widgets.php:365
+msgid "Secondary Promotional"
+msgstr "Promoción secundaria"
+
+#: inc/widgets/interface_widgets.php:361
+msgid "Primary Promotional:"
+msgstr "Promoción principal:"
+
+#: inc/widgets/interface_widgets.php:313
+msgid "Theme Horse: PromoBox"
+msgstr "Theme Horse: PromoBox"
+
+#: inc/widgets/interface_widgets.php:311
+msgid "Display PromoBox( Business Layout )"
+msgstr "Mostrar PromoBox (Estructura de negocio)"
+
+#: inc/widgets/interface_widgets.php:221 inc/widgets/interface_widgets.php:443
+msgid "Page"
+msgstr "Página"
+
+#: inc/widgets/interface_widgets.php:204
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: Servicios"
+
+#: inc/widgets/interface_widgets.php:202
+msgid "Display Services( Business Layout )"
+msgstr "Mostrar servicios ( Diseño empresarial )"
+
+#: inc/widgets/interface_widgets.php:187 inc/widgets/interface_widgets.php:420
+#: inc/widgets/interface_widgets.php:639
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/interface_widgets.php:134
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Tema Horse: Nube de etiquetas personalizada"
+
+#: inc/widgets/interface_widgets.php:132
+msgid "Displays Custom Tag Cloud"
+msgstr "Muestra una nube de etiquetas personalizada"
+
+#: inc/widgets/interface_widgets.php:104
+msgid "Shows widgets at footer Column 3."
+msgstr "Muestra widgets en la columna 3 del pie de página."
+
+#: inc/widgets/interface_widgets.php:102
+msgid "Footer - Column3"
+msgstr "Pie - Columna3"
+
+#: inc/widgets/interface_widgets.php:93
+msgid "Shows widgets at footer Column 2."
+msgstr "Muestra widgets en la columna 2 del pie de página."
+
+#: inc/widgets/interface_widgets.php:91
+msgid "Footer - Column2"
+msgstr "Pie - Columna2"
+
+#: inc/widgets/interface_widgets.php:82
+msgid "Shows widgets at footer Column 1."
+msgstr "Muestra widgets en la columna 1 del pie de página."
+
+#: inc/widgets/interface_widgets.php:80
+msgid "Footer - Column1"
+msgstr "Pie - Columna1"
+
+#: inc/widgets/interface_widgets.php:68
+msgid "Shows widgets on Contact Page Template."
+msgstr "Estos widgets se mostrarán dentro de la página que tenga asignada la plantilla de \"Página de contacto\"."
+
+#: inc/widgets/interface_widgets.php:66
+msgid "Contact Page Sidebar"
+msgstr "Barra lateral de la página de contacto"
+
+#: inc/widgets/interface_widgets.php:56
+msgid "Shows widgets on Business Page Template at bottom of the page. Suitable widget: Theme Horse: Featured Image"
+msgstr "Muestra widgets en la plantilla empresarial en la parte inferior de la página. Widget adecuado: Tema Horse: Imagen destacada"
+
+#: inc/widgets/interface_widgets.php:54
+msgid "Business Page Our Clients Section"
+msgstr "Sección Nuestros clientes de la página empresarial"
+
+#: inc/widgets/interface_widgets.php:44
+msgid "Shows widgets on Business Page Template. Suitable widget: Theme Horse: Featured Recent Work, Theme Horse: Testimonial, Theme Horse: Services, Theme Horse: PromoBox"
+msgstr "Muestra los widgets en la plantilla de la página de negocio. Widget adecuado: Theme Horse: Trabajo reciente destacada, Theme Horse: Testimonio, Theme Horse: Servicios, Theme Horse: PromoBox"
+
+#: inc/widgets/interface_widgets.php:42
+msgid "Business Page Section"
+msgstr "Sección de página empresarial"
+
+#: inc/widgets/interface_widgets.php:33
+msgid "Shows widgets at Right side."
+msgstr "Muestra widgets a derecha"
+
+#: inc/widgets/interface_widgets.php:22
+msgid "Shows widgets at Left side."
+msgstr "Muestra widgets a izquierda"
+
+#: inc/structure/searchform-extensions.php:22
+#: inc/structure/searchform-extensions.php:24
+#: inc/structure/searchform-extensions.php:25
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/structure/header-extensions.php:489
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/structure/header-extensions.php:486
+msgid "Page NOT Found"
+msgstr "No se encontró la página"
+
+#: inc/structure/header-extensions.php:193
+msgid "%1$s on %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/structure/header-extensions.php:119
+msgid "\" Mail Us \""
+msgstr "\" Envíanos un correo electrónico \""
+
+#: inc/structure/header-extensions.php:109
+msgid "\" Call Us \""
+msgstr "\" Llámanos \""
+
+#: inc/structure/footer-extensions.php:70
+msgid "Powered by: "
+msgstr "Funciona con: "
+
+#: inc/structure/footer-extensions.php:70
+msgid "Theme by: "
+msgstr "Tema por:"
+
+#: inc/structure/footer-extensions.php:68
+msgid "Copyright &copy; "
+msgstr "Copyright &copy;"
+
+#: inc/structure/content-extensions.php:1043
+msgid "Check for a mis-typed URL error, then press the refresh button on your browser."
+msgstr "Comprueba si la URL está mal escrita y, a continuación, pulsa el botón de recargar de tu navegador."
+
+#: inc/structure/content-extensions.php:1040
+msgid "Please try the following instead:"
+msgstr "Por favor, prueba lo siguiente:"
+
+#: inc/structure/content-extensions.php:1037
+msgid "You have typed the web address incorrectly, or the page you were looking for may have been moved, updated or deleted."
+msgstr "Has escrito incorrectamente la dirección web o la página que estabas buscando puede haber sido movida, borrada o actualizada."
+
+#: inc/structure/content-extensions.php:1034
+msgid "This might be because:"
+msgstr "Esto puede deberse a:"
+
+#: inc/structure/content-extensions.php:1031
+msgid "It seems we can't find what you're looking for."
+msgstr "Parece que no podemos encontrar lo que estás buscando"
+
+#: inc/structure/content-extensions.php:1026
+msgid "Error 404-Page NOT Found"
+msgstr "Error 404-Página NO encontrada"
+
+#: inc/structure/content-extensions.php:939
+msgid "Reply <span>&darr;</span>"
+msgstr "Responder <span>&darr;</span>"
+
+#: inc/structure/content-extensions.php:934
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/structure/content-extensions.php:929
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#. translators: 1: date, 2: time
+#: inc/structure/content-extensions.php:921
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/structure/content-extensions.php:915
+msgid "Post author"
+msgstr "Autor de la entrada"
+
+#: inc/structure/content-extensions.php:899
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/structure/content-extensions.php:897
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/structure/content-extensions.php:857
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/structure/content-extensions.php:854
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/structure/content-extensions.php:845
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: inc/structure/content-extensions.php:842
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/structure/content-extensions.php:534
+#: inc/structure/content-extensions.php:658
+#: inc/structure/content-extensions.php:779
+#: inc/structure/content-extensions.php:821
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: inc/structure/content-extensions.php:531
+#: inc/structure/content-extensions.php:655
+#: inc/structure/content-extensions.php:776
+#: inc/structure/content-extensions.php:818
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: inc/structure/content-extensions.php:223
+#: inc/structure/content-extensions.php:325
+#: inc/structure/content-extensions.php:745
+#: inc/structure/content-extensions.php:972
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/structure/content-extensions.php:192
+#: inc/structure/content-extensions.php:255
+#: inc/structure/content-extensions.php:373
+#: inc/structure/content-extensions.php:420
+#: inc/structure/content-extensions.php:544
+#: inc/structure/content-extensions.php:668
+#: inc/structure/content-extensions.php:789
+#: inc/structure/content-extensions.php:998
+msgid "No Posts Found."
+msgstr "No se han encontrado entradas."
+
+#: inc/structure/content-extensions.php:173
+#: inc/structure/content-extensions.php:511
+#: inc/structure/content-extensions.php:637
+#: inc/structure/content-extensions.php:742
+#: inc/widgets/interface_widgets.php:289
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/structure/content-extensions.php:166
+#: inc/structure/content-extensions.php:341
+#: inc/structure/content-extensions.php:504
+#: inc/structure/content-extensions.php:631
+#: inc/structure/content-extensions.php:755
+#: inc/structure/footer-extensions.php:90
+msgid " "
+msgstr " "
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "Comments Off"
+msgstr "Comentarios desactivados"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: inc/functions/functions.php:300
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/footer_info/interface-footer_info.php:33
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions/customizer.php:634
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: inc/structure/header-extensions.php:171 inc/functions/customizer.php:649
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/structure/header-extensions.php:170 inc/functions/customizer.php:648
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/structure/header-extensions.php:169 inc/functions/customizer.php:647
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/structure/header-extensions.php:168 inc/functions/customizer.php:646
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/structure/header-extensions.php:167 inc/functions/customizer.php:645
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/structure/header-extensions.php:166 inc/functions/customizer.php:644
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/structure/header-extensions.php:165 inc/functions/customizer.php:643
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/structure/header-extensions.php:164 inc/functions/customizer.php:642
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/structure/header-extensions.php:163 inc/functions/customizer.php:641
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/structure/header-extensions.php:162 inc/functions/customizer.php:640
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions/customizer.php:626
+msgid "Enter your Address"
+msgstr "Introduzca su dirección de"
+
+#: inc/functions/customizer.php:625
+msgid "Location Only"
+msgstr "Sólo ubicación"
+
+#: inc/functions/customizer.php:612
+msgid "Enter your Email ID"
+msgstr "Introduce el ID de tu correo electrónico"
+
+#: inc/functions/customizer.php:611
+msgid "Email ID Only"
+msgstr "Solo el ID de correo electrónico"
+
+#: inc/functions/customizer.php:598
+msgid "Enter your Phone number only"
+msgstr "Introduce solo tu número de teléfono"
+
+#: inc/functions/customizer.php:597
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: inc/functions/customizer.php:584
+msgid "Disable Bottom Info Bar"
+msgstr "Desactivar la barra inferior de información"
+
+#: inc/functions/customizer.php:571
+msgid "Disable Top Info Bar"
+msgstr "Desactivar la barra superior de información"
+
+#: inc/functions/customizer.php:559
+msgid "Contact Info Bar"
+msgstr "Barra de información de contacto"
+
+#: inc/functions/customizer.php:550
+msgid " Featured Slider Post/Page #"
+msgstr " Entrada/página del carrusel de destacados #"
+
+#: inc/functions/customizer.php:534
+msgid "Check to exclude"
+msgstr "Marcar para Excluir"
+
+#: inc/functions/customizer.php:535
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Excluir los Post del Slider de los Post del Homepage?"
+
+#: inc/functions/customizer.php:522
+msgid "Featured Post/ Page Slider Options"
+msgstr "Opciones del carrusel de entradas/páginas destacadas"
+
+#: inc/functions/customizer.php:515
+msgid "Transition Length"
+msgstr "Extensión de la transición"
+
+#: inc/functions/customizer.php:502
+msgid "Transition Delay"
+msgstr "Retardo de la transición"
+
+#: inc/functions/customizer.php:476
+msgid "Transition Effect"
+msgstr "Efecto de transición"
+
+#: inc/functions/customizer.php:463
+msgid "Number of Slides"
+msgstr "Número de diapositivas"
+
+#: inc/functions/customizer.php:445
+msgid "Slider Content"
+msgstr "Contenido del carrusel"
+
+#: inc/functions/customizer.php:432
+msgid "Disable Slider"
+msgstr "Desactivar el proyector"
+
+#: inc/functions/customizer.php:420
+msgid "Slider Options"
+msgstr "Opciones del carrusel "
+
+#: inc/functions/customizer.php:45
+msgid "--Disabled--"
+msgstr "--Deshabilitado--"
+
+#: inc/functions/customizer.php:409
+msgid "Front page posts categories"
+msgstr "Categorías de las entradas de la página de inicio"
+
+#: inc/functions/customizer.php:393
+msgid "Homepage Blog Category Setting"
+msgstr "Ajuste de la categoría del blog de la página de inicio"
+
+#: inc/functions/customizer.php:384
+msgid "Home Page Secondary Slogan"
+msgstr "Eslogan secundario de la página de inicio"
+
+#: inc/functions/customizer.php:385
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "La longitud apropiada del eslogan es de unas 10 palabras."
+
+#: inc/functions/customizer.php:371
+msgid "Home Page Primary Slogan"
+msgstr "Eslogan principal de la página de inicio"
+
+#: inc/functions/customizer.php:361
+msgid "Below Slider"
+msgstr "Debajo del carrusel"
+
+#: inc/functions/customizer.php:360
+msgid "Above Slider"
+msgstr "Encima del carrusel"
+
+#: inc/functions/customizer.php:354
+msgid "Slogan Position"
+msgstr "Posición del eslogan"
+
+#: inc/functions/customizer.php:342
+msgid "Disable Slogan Part"
+msgstr "Desactivar la parte del eslogan"
+
+#: inc/functions/customizer.php:331
+msgid "Home Slogan Options"
+msgstr "Opciones del eslogan de la página de inicio"
+
+#: inc/functions/customizer.php:322
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Este CSS reemplazará los CSS presentes en el file style.css"
+
+#: inc/functions/customizer.php:321
+msgid "Enter your custom CSS styles."
+msgstr "Introduzca sus estilos CSS personalizados"
+
+#: inc/functions/customizer.php:310
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/functions/customizer.php:269
+msgid "Hide Searchform from Header"
+msgstr "Ocultar el formulario de búsqueda de la cabecera"
+
+#: inc/functions/customizer.php:305
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/functions/customizer.php:304
+msgid "Header Text Only"
+msgstr "Solo texto de cabecera"
+
+#: inc/functions/customizer.php:303
+msgid "Header Logo Only"
+msgstr "Solo logo de cabecera"
+
+#: inc/functions/customizer.php:297
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/functions/customizer.php:284
+msgid "Header Logo"
+msgstr "Logo de la cabecera"
+
+#: inc/functions/customizer.php:258
+msgid "Custom Header"
+msgstr "Cabecera personalizada"
+
+#: inc/functions/customizer.php:233 inc/functions/customizer.php:244
+msgid "Responsive Layout"
+msgstr "Disposición adaptable"
+
+#: inc/widgets/interface_widgets.php:31 inc/functions/customizer.php:228
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/widgets/interface_widgets.php:20 inc/functions/customizer.php:227
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/functions/customizer.php:226
+msgid "No Sidebar, Full Width"
+msgstr "No sidebar, Full Width"
+
+#: inc/functions/customizer.php:225
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/functions/customizer.php:219
+msgid "Layouts"
+msgstr "Estructuras"
+
+#: inc/functions/customizer.php:208
+msgid "Content Layout"
+msgstr "Disposición del contenido"
+
+#: inc/functions/customizer.php:203
+msgid "Wide Layout"
+msgstr "Disposición amplia"
+
+#: inc/functions/customizer.php:202
+msgid "Narrow Layout"
+msgstr "Diseño estrecho"
+
+#: inc/functions/customizer.php:196
+msgid "This change is reflected in whole website"
+msgstr "Este cambio se refleja en toda la web"
+
+#: inc/functions/customizer.php:184 inc/functions/customizer.php:195
+msgid "Site Layout"
+msgstr "Disposición del sitio"
+
+#: inc/functions/customizer.php:155
+msgid "Contact / Social Links"
+msgstr "Contacto / Enlaces sociales"
+
+#: inc/functions/customizer.php:149
+msgid "Featured Post/Page Slider"
+msgstr "Carrusel de entradas/páginas destacadas"
+
+#: inc/functions/customizer.php:143
+msgid "Advance Options"
+msgstr "Opciones avanzadas"
+
+#: inc/functions/customizer.php:137
+msgid "Design Options"
+msgstr "Opciones de diseño"
+
+#: inc/functions/customizer.php:132
+msgid "Layout Options"
+msgstr "Opciones de disposición"
+
+#: inc/functions/customizer.php:24
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: inc/functions/customizer.php:23
+msgid "Interface Demo"
+msgstr "Demo de Interface"
+
+#: inc/functions/customizer.php:20 inc/functions/customizer.php:21
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/functions/customizer.php:18
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#: inc/functions/customizer.php:17
+msgid "Interface Theme Instructions"
+msgstr "Instrucciones del tema Interface"
+
+#: inc/functions/customizer.php:15
+msgid "Rate Interface"
+msgstr "Valora Interface"
+
+#: inc/functions/customizer.php:14
+msgid "Review Interface"
+msgstr "Reseña Interface"
+
+#: inc/functions/customizer.php:728
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/admin/interface-metaboxes.php:63
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/admin/interface-metaboxes.php:57
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/admin/interface-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "No sidebar, Full Width"
+
+#: inc/admin/interface-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Sin barra lateral "
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Diseño predeterminado situado en"
+
+#: inc/admin/interface-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Selecciona el layour para este  artículo específico"
+
+#: inc/admin/interface-metaboxes.php:19
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Selecciona layout solo para esta página específica. (N.B.: esta selección solo se activa si el modelo de página está definido como Default  o modelos de Blog)"
+
+#: functions.php:138
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:33
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s comentarios en «%2$s»"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Un comentario sobre «%2$s»"
+
+#. Author URI of the theme
+msgid "https://www.themehorse.com"
+msgstr "https://www.themehorse.com"
+
+#. Theme URI of the theme
+msgid "https://www.themehorse.com/themes/interface"
+msgstr "https://www.themehorse.com/themes/interface"
+
+#. Author of the theme
+#: inc/footer_info/interface-footer_info.php:41
+msgid "Theme Horse"
+msgstr "Theme Horse"

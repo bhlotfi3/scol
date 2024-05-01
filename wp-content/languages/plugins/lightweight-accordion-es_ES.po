@@ -1,0 +1,53 @@
+# Translation of Plugins - Lightweight Accordion - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Lightweight Accordion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-17 13:31:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Lightweight Accordion - Development (trunk)\n"
+
+#: block.json
+msgctxt "block keyword"
+msgid "toggle"
+msgstr "conmutador"
+
+#: block.json
+msgctxt "block keyword"
+msgid "collapsible"
+msgstr "desplegable"
+
+#: block.json
+msgctxt "block keyword"
+msgid "accordion"
+msgstr "acordeón"
+
+#: block.json
+msgctxt "block description"
+msgid "Simple lightweight accordion collapsible block."
+msgstr "Sencillo y liviano bloque de acordeón desplegable."
+
+#: block.json
+msgctxt "block title"
+msgid "Lightweight Accordion"
+msgstr "Lightweight Accordion"
+
+#. Author URI of the plugin
+msgid "https://smartwp.com"
+msgstr "https://smartwp.com"
+
+#. Author of the plugin
+msgid "Andy Feliciotti"
+msgstr "Andy Feliciotti"
+
+#. Description of the plugin
+msgid "Extremely simple accordion for adding collapse elements to pages without affecting page load time. Works for Classic Editor via shortcode and Gutenberg via Block."
+msgstr "Acordeón extremadamente sencillo para añadir elementos de plegables a las páginas sin afectar a su tiempo de carga. Funciona con el editor clásico mediante un shortcode y con Gutenberg mediante un bloque."
+
+#. Plugin URI of the plugin
+msgid "https://smartwp.co/lightweight-accordion"
+msgstr "https://smartwp.co/lightweight-accordion"

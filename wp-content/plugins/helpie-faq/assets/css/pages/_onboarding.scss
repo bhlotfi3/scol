@@ -1,0 +1,29 @@
+#helpie-faq-onboarding-page h1,
+#helpie-faq-onboarding-page h2 {
+	text-align: center;
+	padding: 20px 0;
+}
+
+.helpie-faq-onboarding {
+	// display: flex;
+	@apply helpiefaq-grid helpiefaq-grid-cols-2 helpiefaq-gap-12;
+	max-width: 1080px;
+	margin: auto;
+}
+
+.helpie-faq-onboarding .card {
+	@apply helpiefaq-block helpiefaq-max-w-xl helpiefaq-border helpiefaq-border-gray-200 helpiefaq-rounded-lg;
+
+	border-radius: 5px;
+}
+
+.helpie-faq-onboarding .card .button {
+	@apply helpiefaq-text-white helpiefaq-bg-blue-700;
+
+	background-color: #157dec !important;
+	color: white !important;
+}
+
+.helpie-faq-onboarding .card .button.red {
+	background-color: #d24075 !important;
+}

@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1.1\n"
+
+# #LWS Tools##
+#: lwstools.php:
+msgid "Hide connexion errors on wp-login"
+msgstr "Cacher les erreurs de connexion sur WP-Login"
+
+#: lwstools.php:
+msgid "Provide a new way of sanitizing uploaded media name"
+msgstr "Nettoyage alternatif des noms des médias téléversés"
+
+#: lwstools.php:
+msgid "Hide WordPress Version meta on pages"
+msgstr "Cacher la meta 'Version de WordPress' des pages"
+
+#: lwstools.php:
+msgid "Delete Windows Live Writer manifest"
+msgstr "Désactiver Windows Live Writer"
+
+#: lwstools.php:
+msgid "Reduce the amount of available revisions to "
+msgstr "Réduire le nombre de révisions à "
+
+#: lwstools.php:
+msgid "Remove Heading 1 from TinyMCE"
+msgstr "Supprimer le Titre 1 de TinyMCE"
+
+#: lwstools.php:
+msgid "Use visitor's emotes instead of WordPress"
+msgstr "Utiliser les emotes du navigateur des visiteurs au lieu de ceux de WordPress"
+
+#: lwstools.php:
+msgid "Deactivate REST API"
+msgstr "Désactiver l'API REST"
+
+#: lwstools.php:
+msgid "Add back hidden 'Medium Large' image size "
+msgstr "Rajouter la taille d'image 'Medium Large' cachée "
+
+#: lwstools.php:
+msgid "Remove author's pages and their links"
+msgstr "Supprimer les pages des auteurs et les liens associés"
+
+#: lwstools.php:
+msgid "Remove RSS feeds"
+msgstr "Retirer les flux RSS"
+
+#: lwstools.php:
+msgid "Remove RSS feeds links"
+msgstr "Retirer les liens des flux RSS"
+
+#: lwstools.php:
+msgid "Remove comments RSS feeds"
+msgstr "Retirer les flux RSS des commentaires"
+
+#: lwstools.php:
+msgid "Hide users pages from WordPress sitemap"
+msgstr "Cacher les pages utilisateurs de la sitemap"
+
+#: lwstools.php:
+msgid "Hide users endpoints from REST API"
+msgstr "Cacher les endpoints utilisateurs de l'API REST"
+
+#: lwstools.php:
+msgid "Remove the Password Strength Meter in Accounts"
+msgstr "Désactiver la vérification de mot de passe dans la page Compte"
+
+#: lwstools.php:
+msgid "Prevent WordPress from self-pinging your in your articles"
+msgstr "Empêcher WordPress de vous pingback sur vos propres articles"
+
+#: lwstools.php:
+msgid "Remove shortlinks from the page"
+msgstr "Supprimer les shortlinks"
+
+#: lwstools.php:
+msgid "LWS Tools - Overview"
+msgstr "LWS Tools - Aperçu"
+
+#: lwstools.php:
+msgid "Yes"
+msgstr "Oui"
+
+#: lwstools.php:
+msgid "No"
+msgstr "Non"
+
+#: lwstools.php:
+msgid "Failed to connect"
+msgstr "Echec de la connexion"
+
+#: lwstools.php:
+msgid "Medium-Large"
+msgstr "Medium Large"
+
+#: lwstools.php:
+msgid "The WordPress REST API has been disabled."
+msgstr "L'API REST a été désactivée."
+
+#: lwstools.php:
+msgid "No feed available"
+msgstr "Aucun flux disponible"
+
+# #MYSQL##
+#: lws_tk_mysqlpage.php:
+msgid "Name"
+msgstr "Nom"
+
+#: lws_tk_mysqlpage.php:
+msgid "Size"
+msgstr "Taille"
+
+#: lws_tk_mysqlpage.php:
+msgid "Charset"
+msgstr "Encodage"
+
+#: lws_tk_mysqlpage.php:
+msgid "Engine"
+msgstr "Moteur"
+
+#: lws_tk_mysqlpage.php:
+msgid "Created"
+msgstr "Crée le"
+
+#: lws_tk_mysqlpage.php:
+msgid "You are using WPS Bidouille. Due to conflicts, you cannot use thoses functions while it is activated."
+msgstr "Vous utilisez WPS Bidouille. A cause de conflits, vous ne pouvez pas utiliser ces fonctions lorsqu'il est actif."
+
+#: lws_tk_mysqlpage.php:
+msgid "Repair"
+msgstr "Réparer"
+
+#: lws_tk_mysqlpage.php:
+msgid "Repairing..."
+msgstr "Réparation..."
+
+#: lws_tk_mysqlpage.php:
+msgid "Done"
+msgstr "Terminé"
+
+#: lws_tk_mysqlpage.php:
+msgid "Repair & Optimise"
+msgstr "Réparer et Optimiser"
+
+#: lws_tk_mysqlpage.php:
+msgid "Optimizing..."
+msgstr "Optimisation..."
+
+#: lws_tk_mysqlpage.php:
+msgid "Close"
+msgstr "Fermer"
+
+#: lws_tk_mysqlpage.php:
+msgid "You have %d tables for a total size of %s."
+msgstr "Vous avez %d tables, pour une taille totale de %s."
+
+#: lws_tk_mysqlpage.php:
+msgid "If your database is not working properly, you may want to <strong>repair</strong> or <strong>optimise</strong> it."
+msgstr "Si votre base de données ne fonctionne pas correctement, vous devriez la <strong>réparer</strong> ou <strong>l'optimiser</strong>."
+
+# #NOTIF##
+#: lws_tk_notifpage.php:
+msgid "Your current WordPress version (%s) is outdated and should be updated!"
+msgstr "Votre version de WordPress (%s) est obsolète et devrait être mise à jour !"
+
+#: lws_tk_notifpage.php:
+msgid "Update to latest version (%s)"
+msgstr "Mettre à jour vers la dernière version (%s)"
+
+#: lws_tk_notifpage.php:
+msgid "Your current WordPress version (%s) is up-to-date."
+msgstr "Votre version de WordPress (%s) est à jour."
+
+#: lws_tk_notifpage.php:
+msgid "You have %d plugin(s) in need of an update."
+msgstr "Vous avez %d plugin(s) à mettre à jour."
+
+#: lws_tk_notifpage.php:
+msgid "Update to %s"
+msgstr "Mettre à jour vers la %s"
+
+#: lws_tk_notifpage.php:
+msgid "You have %d theme(s) in need of an update."
+msgstr "Vous avez %d thème(s) à mettre à jour."
+
+#: lws_tk_notifpage.php:
+msgid "You have %1$d unused plugin(s) out of %2$d."
+msgstr "Vous avez %1$d plugin(s) inutilisé(s) sur un total de %2$d."
+
+#: lws_tk_notifpage.php:
+msgid "You have %1$d unused theme(s) out of %2$d."
+msgstr "Vous avez %1$d thème(s) inutilisé(s) sur un total de %2$d."
+
+#: lws_tk_notifpage.php:
+msgid "Your SSL certificate has expired since %s. Your connexion is not secure. "
+msgstr "Votre certificat SSL a expiré depuis le %s. Votre connexion n'est pas sécurisée. "
+
+#: lws_tk_notifpage.php:
+msgid "SSL Certificate valid until %s - by %s"
+msgstr "Certificat SSL validé jusqu'au %s - par %s"
+
+#: lws_tk_notifpage.php:
+msgid "Update in progress..."
+msgstr "Mise à jour en cours..."
+
+#: lws_tk_notifpage.php:
+msgid "Updated"
+msgstr "Mis à jour"
+
+#: lws_tk_notifpage.php:
+msgid "Update all plugins"
+msgstr "Mettre à jour tous les plugins"
+
+#: lws_tk_notifpage.php:
+msgid "All your plugins are up-to-date."
+msgstr "Tous vos plugins sont à jour."
+
+#: lws_tk_notifpage.php:
+msgid "Update all themes"
+msgstr "Mettre à jour tous les thèmes"
+
+#: lws_tk_notifpage.php:
+msgid "All your themes are up-to-date."
+msgstr "Tous vos thèmes sont à jour."
+
+#: lws_tk_notifpage.php:
+msgid "Delete all unused plugins"
+msgstr "Supprimer tous les plugins inutilisés"
+
+#: lws_tk_notifpage.php:
+msgid "Deletion in progress..."
+msgstr "Suppression en cours..."
+
+#: lws_tk_notifpage.php:
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: lws_tk_notifpage.php:
+msgid "Delete this plugin"
+msgstr "Supprimer ce plugin"
+
+#: lws_tk_notifpage.php:
+msgid "You have no unused plugins on your site."
+msgstr "Vous n'avez aucun plugin inutilisé sur votre site."
+
+#: lws_tk_notifpage.php:
+msgid "Delete all unused themes"
+msgstr "Supprimer tous les thèmes inutilisés"
+
+#: lws_tk_notifpage.php:
+msgid "Delete this theme"
+msgstr "Supprimer ce thème"
+
+#: lws_tk_notifpage.php:
+msgid "You have no unused themes on your site."
+msgstr "Vous n'avez aucun thème inutilisé sur votre site."
+
+#: lws_tk_notifpage.php:
+msgid "You have new translations waiting to be updated"
+msgstr "Vous avez de nouvelles traductions à mettre à jour"
+
+#: lws_tk_notifpage.php:
+msgid "Update translations"
+msgstr "Mettre à jour les traductions"
+
+#: lws_tk_notifpage.php:
+msgid "All your translations are up-to-date!"
+msgstr "Toutes les traductions sont à jour !"
+
+#: lws_tk_notifpage.php:
+msgid "You are using the default database prefix."
+msgstr "Vous utilisez le préfixe de base de données par défaut."
+
+#: lws_tk_notifpage.php:
+msgid "Modify prefix"
+msgstr "Modifier le préfixe"
+
+#: lws_tk_notifpage.php:
+msgid "You are using a custom database prefix!"
+msgstr "Vous utilisez un préfixe de base de données personnalisé !"
+
+# #OPTI##
+#: lws_tk_optipage.php:
+msgid "Apply optimisations"
+msgstr "Appliquer les optimisations"
+
+# #PLUGINS##
+#: lws_tk_pluginspage.php:
+msgid "Discover our plugins"
+msgstr "Découvrez nos plugins"
+
+#: lws_tk_pluginspage.php:
+msgid "We, at LWS, have developped a few different plugins for WordPress that you may find below."
+msgstr "Chez LWS, nous avons développé différents plugins pour WordPress que vous pouvez trouver ci-dessous."
+
+#: lws_tk_pluginspage.php:
+msgid "You just have to click on the \"Install now\" button to get them for free."
+msgstr "Vous avez juste à cliquer sur le bouton \"Installer maintenant\" pour les obtenir gratuitement."
+
+#: lws_tk_pluginspage.php:
+msgid "This plugin hide your admin page (wp-admin) and let you change your login page (wp-login)."
+msgstr "Ce plugin cache votre page d'administration (wp-admin) et vous laisse changer votre page de connexion (wp-login)."
+
+#: lws_tk_pluginspage.php:
+msgid "It allows for better security as hacker will have more troubles finidng the right page."
+msgstr "Il vous offre une meilleure sécurité car les pirates auront plus de mal à trouver la bonne page."
+
+#: lws_tk_pluginspage.php:
+msgid "Install now"
+msgstr "Installer maintenant"
+
+#: lws_tk_pluginspage.php:
+msgid "Install in progress..."
+msgstr "Installation en cours..."
+
+#: lws_tk_pluginspage.php:
+msgid "Activation in progress..."
+msgstr "Activation en cours..."
+
+#: lws_tk_pluginspage.php:
+msgid "Activate"
+msgstr "Activer"
+
+#: lws_tk_pluginspage.php:
+msgid "Activated"
+msgstr "Activé"
+
+#: lws_tk_pluginspage.php:
+msgid "Failed to download"
+msgstr "Echec du téléchargement"
+
+#: lws_tk_pluginspage.php:
+msgid "This plugin, designed especially for WooCommerce, allows you to send SMS to your customers automatically."
+msgstr "Ce plugin, désigné spécifiquement pour WooCommerce, vous permet d'<b>envoyer des SMS à vos clients automatiquement."
+
+#: lws_tk_pluginspage.php:
+msgid "You will need an account at LWS and enough balance to actually send SMS."
+msgstr "Vous aurez besoin d'un compte chez LWS et suffisamment de crédits SMS pour pouvoir envoyer des SMS."
+
+#: lws_tk_pluginspage.php:
+msgid "You can create personnalized templates, manage your SMS and sender IDs and more!"
+msgstr "Vous pouvez créer des templates personnalisés, gérer vos SMS et identifiants d'expéditeurs et plus encore !"
+
+#: lws_tk_pluginspage.php:
+msgid "With this plugin, you can add banners and widgets on your website to use with your affiliate account."
+msgstr "Avec ce plugin, vous pouvez ajouter des bannières et widgets sur votre site pour les utiliser avec votre <b>compte affilié LWS."
+
+#: lws_tk_pluginspage.php:
+msgid "Earn money and keep track of your gains directly on your website."
+msgstr "Gagnez de l'argent et suivez l'évolution de vos gains sur votre site."
+
+#: lws_tk_pluginspage.php:
+msgid "Based on Varnish cache and Nginx, LWSCache speed up the loading of your webpages. This plugin help you automatically manage your LWSCache when you edit your pages, posts, messages..."
+msgstr "Basé sur la technologie Varnish cache et Nginx, LWScache permet d’accélérer la vitesse de chargement de vos pages Web. Ce plugin vous aide à gérer automatiquement votre cache LWSCache lorsque vous éditez vos pages, articles, messages…"
+
+#: lws_tk_pluginspage.php:
+msgid "It provide a way to purge all your cache but will only work on server using this system."
+msgstr "Cela vous permet de purger tout votre cache mais cela ne fonctionne que si votre serveur utilise aussi ce système de cache."
+
+# #SERVER##
+#: lws_tk_serverpage.php:
+msgid "Environment"
+msgstr "Environnement"
+
+#: lws_tk_serverpage.php:
+msgid "Your IP"
+msgstr "Votre IP"
+
+#: lws_tk_serverpage.php:
+msgid "Server Port"
+msgstr "Port du serveur"
+
+#: lws_tk_serverpage.php:
+msgid "Is using HTTPS"
+msgstr "Utilise HTTPS"
+
+#: lws_tk_serverpage.php:
+msgid "Server Name"
+msgstr "Nom du serveur"
+
+#: lws_tk_serverpage.php:
+msgid "Server IP"
+msgstr "IP du serveur"
+
+#: lws_tk_serverpage.php:
+msgid "Server Protocol"
+msgstr "Protocole du serveur"
+
+#: lws_tk_serverpage.php:
+msgid "PHP"
+msgstr "PHP"
+
+#: lws_tk_serverpage.php:
+msgid "Is in WP Debug"
+msgstr "Est en Debug WP"
+
+#: lws_tk_serverpage.php:
+msgid "allow_url_fopen"
+msgstr "allow_url_fopen"
+
+#: lws_tk_serverpage.php:
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#: lws_tk_serverpage.php:
+msgid "Default Charset"
+msgstr "Encodage par défaut"
+
+#: lws_tk_serverpage.php:
+msgid "Can upload files"
+msgstr "Peut téléverser des fichiers"
+
+#: lws_tk_serverpage.php:
+msgid "Maximum execution time"
+msgstr "Temps d'exécution maximum"
+
+#: lws_tk_serverpage.php:
+msgid "Maximum amount of files per uploads"
+msgstr "Quantité de fichiers maximale par téléversement"
+
+#: lws_tk_serverpage.php:
+msgid "Maximum amount of characters per inputs"
+msgstr "Quantité maximale de caractères par entrées"
+
+#: lws_tk_serverpage.php:
+msgid "Memory Limit"
+msgstr "Limite de mémoire"
+
+#: lws_tk_serverpage.php:
+msgid "Max size of a post"
+msgstr "Taille maximale d'un article"
+
+#: lws_tk_serverpage.php:
+msgid "Max size of uploaded files"
+msgstr "Taille maximale des fichiers téléversés"
+
+#: lws_tk_serverpage.php:
+msgid "PHP Memory Usage"
+msgstr "Utilisation de la mémoire par PHP"
+
+# #TABS##
+#: lws_tk_tabs.php:
+msgid "A set of tools and shortcuts to manage your WordPress website"
+msgstr "Un ensemble d'outils et raccourcis pour la gestion de votre site WordPress"
+
+#: lws_tk_tabs.php:
+msgid "Notifications Center"
+msgstr "Centre de notifications"
+
+#: lws_tk_tabs.php:
+msgid "Server Informations"
+msgstr "Informations sur le serveur"
+
+#: lws_tk_tabs.php:
+msgid "Optimisations"
+msgstr "Optimisations"
+
+#: lws_tk_tabs.php:
+msgid "MySQL Reports"
+msgstr "Rapports MySQL"
+
+#: lws_tk_tabs.php:
+msgid "Complementary Tools"
+msgstr "Outils complémentaires"
+
+#: lws_tk_tabs.php:
+msgid "Our plugins"
+msgstr "Nos plugins"
+
+# #TOOLS##
+#: lws_tk_toolspage.php:
+msgid "Delete %d revision(s)"
+msgstr "Supprimer %d révision(s)"
+
+#: lws_tk_toolspage.php:
+msgid "Delete %d comments(s)"
+msgstr "Supprimer %d commentaire(s)"
+
+#: lws_tk_toolspage.php:
+msgid "Allows you to disconnect every user from your website. Will not disconnect your current session."
+msgstr "Permettre de déconnecter tous les utilisateurs du site. Ne déconnecte pas la session courante."
+
+#: lws_tk_toolspage.php:
+msgid "Disconnect everyone"
+msgstr "Déconnecter tout le monde"
+
+#: lws_tk_toolspage.php:
+msgid "Disconnexion..."
+msgstr "Déconnexion..."
+
+#: lws_tk_toolspage.php:
+msgid "Disconnected"
+msgstr "Déconnecté"
+
+#: lws_tk_toolspage.php:
+msgid "Delete every revisions older than "
+msgstr "Supprimer toutes les révisions datant de plus de "
+
+#: lws_tk_toolspage.php:
+msgid " day(s) from the database."
+msgstr " jour(s) de la base de données."
+
+#: lws_tk_toolspage.php:
+msgid "Deletion..."
+msgstr "Suppression..."
+
+#: lws_tk_toolspage.php:
+msgid "Delete every trashed comments "
+msgstr "Supprimer tous les commentaires dans la corbeille "
+
+#: lws_tk_toolspage.php:
+msgid "Delete every spam comments "
+msgstr "Supprimer tous les commentaires indésirables "
+
+#: lws_tk_toolspage.php:
+msgid "Clear old temporary data (transients) from cache"
+msgstr "Nettoyer les données temporaires (transients) du cache"
+
+#: lws_tk_toolspage.php:
+msgid "Clear cache"
+msgstr "Nettoyer le cache"
+
+#: lws_tk_toolspage.php:
+msgid "Clearing..."
+msgstr "Nettoyage..."
+
+#: lws_tk_toolspage.php:
+msgid "Cleared"
+msgstr "Nettoyé"
+
+#: lws_tk_toolspage.php:
+msgid "Reset the plugin configuration"
+msgstr "Remettre à zéro la configuration du plugin"
+
+#: lws_tk_toolspage.php:
+msgid "Reset"
+msgstr "Remise à zéro"
+
+#: lws_tk_toolspage.php:
+msgid "Keep configuration even after deleting the plugin"
+msgstr "Garder la configuration même après la suppression du plugin"
